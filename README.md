@@ -22,30 +22,30 @@ Space App é uma aplicação desenvolvida em React que apresenta uma galeria de 
    - Vite: Ferramenta para desenvolvimento frontend rápido.
 
   ## 🚀 Como executar o projeto
-    Pré-requisitos
+   Pré-requisitos
 
-    Antes de começar, você precisará ter o Node.js instalado.
+   Antes de começar, você precisará ter o Node.js instalado.
 
-    Passos para rodar o projeto:
+   Passos para rodar o projeto:
 
-    1. Clone o repositório:
+   1. Clone o repositório:
 
-    git clone https://github.com/seu-usuario/space-app.git
+      git clone https://github.com/seu-usuario/space-app.git
 
-    2. Acesse a pasta do projeto:
+   2. Acesse a pasta do projeto:
     
-    cd space-app
+      cd space-app
 
-    3. Instale as dependências:
+   3. Instale as dependências:
 
-    npm install
+      npm install
 
-    4. Inicie o servidor de desenvolvimento:
+   4. Inicie o servidor de desenvolvimento:
 
-    npm run dev
+      npm run dev
 
-     5. Abra o navegador e acesse:
+   5. Abra o navegador e acesse:
 
-     http://localhost:5173
+      http://localhost:5173
 
-   📸 Capturas de tela
+   ## 📸 Capturas de tela
