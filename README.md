@@ -14,6 +14,13 @@ Space App é uma aplicação desenvolvida em React que apresenta uma galeria de 
 
 - Visualização em zoom: Clique em uma imagem para ampliá-la em um modal.
 
+## 📸 Capturas de tela
+![Captura de tela 2024-12-09 143939](https://github.com/user-attachments/assets/7708f8c8-a1ed-4249-a4b4-d6cfbc9caccf)
+    
+![Captura de tela 2024-12-09 144034](https://github.com/user-attachments/assets/0e56dd49-a377-436d-a841-9aaaa979ed7c)
+   
+![Captura de tela 2024-12-09 144056](https://github.com/user-attachments/assets/6119dd6a-0ef7-4c9d-b979-b7188e1bb6ca)
+
 ## 🛠️ Tecnologias utilizadas
 
    - React: Biblioteca JavaScript para criar interfaces.
@@ -48,4 +55,4 @@ Space App é uma aplicação desenvolvida em React que apresenta uma galeria de 
 
       http://localhost:5173
 
-   ## 📸 Capturas de tela
+   
